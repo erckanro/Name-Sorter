@@ -8,11 +8,11 @@ To run the project locally, follow these steps:
 
 1. Clone the repository:
 ```git bash
-  git clone https://github.com/your-username/FE-Assesment.git
+  git clone https://github.com/your-username/Name-Sorter.git
 ```
 2. Navigate to the project directory:
 ```git bash
-  cd FE-Assesment
+  cd Name-Sorter
 ```
 3. Install dependencies:
 ```git bash
